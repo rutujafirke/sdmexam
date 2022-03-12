@@ -7,6 +7,8 @@ import java.util.Scanner;
 	public static void main(String args[]){
 		int num1=0,num2=1,num3=0;
 		
+		System.out.print("Welcome");
+		
 		int n=10;
 
 		System.out.print(num1 + " \t" + num2);
